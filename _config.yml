@@ -16,7 +16,7 @@
 title: Murder...and learning how to analyze data
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  In order to inspire me to learn Python and data analysis, I'm combining it with my morbid fascination with true crime. I'll be exploring different data sets about murder and violent crimes while I learn tools and techniques for finding and illustrating patterns.
+  In order to inspire me to learn Python and data analysis, I'm combining it with my morbid fascination with true crime. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mellybess
