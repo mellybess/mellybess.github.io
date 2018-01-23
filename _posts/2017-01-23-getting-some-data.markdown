@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting started"
+title:  "Getting some data"
 date:   2017-01-23 13:05:46 -0800
 #Scategories: jekyll update
 ---
@@ -122,7 +122,7 @@ I exported this data as a csv and spent about an hour manually cleaning this in 
 
 Step 3: Geocoding
 
-Once that was done, I used the `python_batch_geocode` script by ____ which took in my csv as input and output a new file with the location coordinated from Google's Geocoding API. I chose this option since me dataset was larger than the 2500 call limit that google has in place. It worked great!
+Once that was done, I used the [`python_batch_geocode`](https://github.com/shanealynn/python_batch_geocode) script which took in my csv as input and output a new file with the location coordinated from Google's Geocoding API. I chose this option since me dataset was larger than the 2500 call limit that google has in place. It worked great!
 
 So, at this point I had two files with all the information I needed, the name of the murderer, when they comitted the crime, the number of victims, and the location  and coordinates of the murders.
 
